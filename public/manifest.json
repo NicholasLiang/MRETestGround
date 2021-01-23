@@ -1,0 +1,7 @@
+{
+	"name": "Hello World Sample",
+	"author": "Nicholas Liang",
+	"license": "MIT",
+	"repositoryUrl": "https://github.com/NicholasLiang/MRETestGround.git",
+	"optionalPermissions": ["user-interaction"]
+}
